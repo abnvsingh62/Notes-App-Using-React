@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "PORT=process.env.PORT",
+    "start": "set PORT=process.env.PORT",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
